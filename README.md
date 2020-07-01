@@ -9,8 +9,12 @@
 
 -project
 
--tutorial-images
+-tutorial
+         
+         -images
+
          -resources
+         
          -videos
 
 project：工程源码
